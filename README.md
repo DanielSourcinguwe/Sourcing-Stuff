@@ -8,8 +8,11 @@ Overview
 
 Tools (not only for recruiting)
 
-Blogs
+### Blogs
 
-[www.google.com](https://www.google.com/)
+[Google.com](https://www.google.com/) - Suchmaschine Google Test
+
+[Google.com](https://www.google.com/) - Suchmaschine Google Test
+
 
 Great Repos from other sourcers and people
