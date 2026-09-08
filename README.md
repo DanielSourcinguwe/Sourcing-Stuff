@@ -10,6 +10,6 @@ Tools (not only for recruiting)
 
 Blogs
 
-[Google](www.google.com)
+[www.google.com](https://www.google.com/)
 
 Great Repos from other sourcers and people
