@@ -22,7 +22,15 @@ Tools (not only for recruiting)
 
 [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Social Networking analysis - this tool maps your target's Insta data.
 
+### Github Search
+
+[Gitbub Name History](https://ghnames.com/) - Search for Github Usernames
+
+[Octohunt](https://octohunt.com/) - Find Develoopers on Github 
+
 ### Reddit Search
+
+[Better Reddit Search](https://betterredditsearch.web.app/) - Search e.g. for Subreddits etc. 
 
 [Reddit Suite](https://chromewebstore.google.com/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb?pli=1) - Extension
 
