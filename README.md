@@ -33,13 +33,19 @@ Note II: I don't find all this stuff myself, pasted it here from amazing people,
 
 [Github Recon Tool](https://kriztalz.sh/github-recon/) - Find Github users by username or email and gather associated data.
 
-
-
 ### Reddit Search
 
 [Better Reddit Search](https://betterredditsearch.web.app/) - Search e.g. for Subreddits etc. 
 
 [Reddit Suite](https://chromewebstore.google.com/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb?pli=1) - Extension
+
+### Blogs
+
+[Social Talent ](https://www.socialtalent.com/blog) - Social Talent
+
+[ERE Recruiting News](https://www.ere.net/) - ERE Recruiting News and more
+
+[Recruiting Daily](https://recruitingdaily.com/) - Recruiting Daily 
 
 ### Extensions
 
