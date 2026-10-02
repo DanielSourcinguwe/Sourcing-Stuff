@@ -22,6 +22,10 @@ Tools (not only for recruiting)
 
 [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Social Networking analysis - this tool maps your target's Insta data.
 
+### Reddit Search
+
+[Reddit Suite](https://chromewebstore.google.com/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb?pli=1) - Extension
+
 ### Extensions
 
 Great Repos from other sourcers and people
