@@ -14,6 +14,14 @@ Tools (not only for recruiting)
 
 [DuckDuckGo.com](https://www.duckduckgo.com/) - Search Engine DuckDuckGo
 
+### Instagram Search
+
+[DolphinRadar](https://www.dolphinradar.com/web-viewer-for-instagram) - Let you view posts, stories, and profiles from public accounts. 
+
+[Instagram Monitor](https://github.com/misiektoja/instagram_monitor) - Tool for real-time tracking of Instagram users' activities 
+
+[Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Social Networking analysis - this tool maps your target's Insta data.
+
 ### Extensions
 
 Great Repos from other sourcers and people
