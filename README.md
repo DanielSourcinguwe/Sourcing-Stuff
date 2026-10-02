@@ -2,9 +2,8 @@
 
 Please Note: This is only for educational purposes. All the links I found them, read them, collected them and hence provided for educational purposes in order to help the Sourcing Community.
 
-Overview
+Note II: I don't find all this stuff myself, pasted it here from amazing people, youtube tutorials, osint geeks and ppl from conferences
 
-Tools (not only for recruiting)
 
 ### Search Engines
 
@@ -14,6 +13,10 @@ Tools (not only for recruiting)
 
 [DuckDuckGo.com](https://www.duckduckgo.com/) - Search Engine DuckDuckGo
 
+[Google Patents ](https://patents.google.com/) - Google Patent Search
+
+[Google Trend](https://trends.google.com/trends/) - Trendig at Google 
+
 ### Instagram Search
 
 [DolphinRadar](https://www.dolphinradar.com/web-viewer-for-instagram) - Let you view posts, stories, and profiles from public accounts. 
@@ -22,13 +25,15 @@ Tools (not only for recruiting)
 
 [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Social Networking analysis - this tool maps your target's Insta data.
 
-### Github Search
+### Github Search and Tools 
 
 [Gitbub Name History](https://ghnames.com/) - Search for Github Usernames
 
 [Octohunt](https://octohunt.com/) - Find Develoopers on Github 
 
 [Github Recon Tool](https://kriztalz.sh/github-recon/) - Find Github users by username or email and gather associated data.
+
+
 
 ### Reddit Search
 
@@ -43,5 +48,7 @@ Great Repos from other sourcers and people
 ### Repositories from Active Sourcers and Tech Sourcers
 
 Recommended Sourcer at Github
+
+[Sjamilla Github Repo ](https://github.com/Sjamilla/awesome-recruitment) - more about awesome recruitment tools etc. 
 
 
