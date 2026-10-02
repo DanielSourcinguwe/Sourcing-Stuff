@@ -28,6 +28,8 @@ Tools (not only for recruiting)
 
 [Octohunt](https://octohunt.com/) - Find Develoopers on Github 
 
+[Github Recon Tool](https://kriztalz.sh/github-recon/) - Find Github users by username or email and gather associated data.
+
 ### Reddit Search
 
 [Better Reddit Search](https://betterredditsearch.web.app/) - Search e.g. for Subreddits etc. 
