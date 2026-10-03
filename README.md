@@ -39,6 +39,10 @@ Note II: I don't find all this stuff myself, pasted it here from amazing people,
 
 [Reddit Suite](https://chromewebstore.google.com/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb?pli=1) - Extension
 
+### LinkedIn Posting related
+
+[Unicode text converter](https://qaz.wtf/u/convert.cgi?text=) Once posting stuff at LinkedIn you can format your text
+
 ### Blogs
 
 [Social Talent ](https://www.socialtalent.com/blog) - Social Talent
@@ -46,6 +50,12 @@ Note II: I don't find all this stuff myself, pasted it here from amazing people,
 [ERE Recruiting News](https://www.ere.net/) - ERE Recruiting News and more
 
 [Recruiting Daily](https://recruitingdaily.com/) - Recruiting Daily 
+
+[Irina Shamaeva Blog ](https://recruitingblogs.com/profiles/blog/list?user=30iw3t8beks5&page=3) - Blog from sourcerin - US based
+
+### Calendar & Scheduling tools
+
+[Meetergo](https://meetergo.com/) - Calendar tool GPRD compliant- Germany based
 
 ### Extensions
 
